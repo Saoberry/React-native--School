@@ -1,0 +1,2 @@
+export const REST_ABSENCES = "REST_ABSENCES" 
+export const ORDER_AVERAGES = "ORDER_AVERAGES"
